@@ -1,16 +1,36 @@
-## Hi there 👋
+<img src="assets/banner.png" width="100%" alt="Hi, I'm Abduxamid Ikromov" />
 
-<!--
-**ae7hr/ae7hr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there 👋
 
-Here are some ideas to get you started:
+I'm **Abduxamid Ikromov** — [@ae7hr](https://github.com/ae7hr).
+My public projects include Python tools and web projects built with HTML, CSS and JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Want to see what I'm building? [Explore my repositories](https://github.com/ae7hr?tab=repositories).
+
+### ℹ️ Git Stats
+
+<!-- STATS:START -->
+<img src="assets/stats.svg" alt="Public GitHub statistics for ae7hr" />
+
+<sub>Updated 2026-11-01 · public data only · commit search may lag.</sub>
+<!-- STATS:END -->
+
+### 💬 Social
+
+[![GitHub](assets/github.svg)](https://github.com/ae7hr)
+
+### 💻 Technology Stack
+
+![Python](assets/python.svg) ![JavaScript](assets/javascript.svg) ![HTML5](assets/html.svg) ![CSS3](assets/css.svg)
+
+### 📎 Latest Posts
+
+<!-- POSTS:START -->
+Coming soon.
+<!-- POSTS:END -->
+
+<!-- QUOTE:START -->
+### 📣 Quote of the Day
+
+> Build something small. Make it useful. Keep improving.
+<!-- QUOTE:END -->
