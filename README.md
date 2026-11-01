@@ -21,7 +21,7 @@ Want to see what I'm building? [Explore my repositories](https://github.com/ae7h
 
 ### 💻 Technology Stack
 
-![Python](assets/python.svg) ![JavaScript](assets/javascript.svg) ![HTML5](assets/html.svg) ![CSS3](assets/css.svg)
+[![Python](assets/python.svg)](https://docs.python.org/3/) [![JavaScript](assets/javascript.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![HTML5](assets/html.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS3](assets/css.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ### 📎 Latest Posts
 
@@ -34,3 +34,4 @@ Coming soon.
 
 > Build something small. Make it useful. Keep improving.
 <!-- QUOTE:END -->
+
