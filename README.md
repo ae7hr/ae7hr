@@ -27,9 +27,9 @@ Want to see what I'm building? [Explore my repositories](https://github.com/ae7h
 
 | Project | Focus |
 | --- | --- |
-| [password_generate](https://github.com/ae7hr/password_generate) | Python bot project |
-| [kahoot_project](https://github.com/ae7hr/kahoot_project) | Django web project |
-| [bag_site](https://github.com/ae7hr/bag_site) | HTML and CSS product landing page |
+| [imest_project](https://github.com/ae7hr/imest_project) | Django testing platform for teachers and students |
+| [frame](https://github.com/ae7hr/frame) | Django movie catalog with trailers and watchlists |
+| [comabooks_real-main-1](https://github.com/ae7hr/comabooks_real-main-1) | Django bookshop |
 
 ### 📎 Latest Posts
 
