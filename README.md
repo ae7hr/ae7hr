@@ -23,6 +23,14 @@ Want to see what I'm building? [Explore my repositories](https://github.com/ae7h
 
 [![Python](assets/python.svg)](https://docs.python.org/3/) [![JavaScript](assets/javascript.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![HTML5](assets/html.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS3](assets/css.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
+### 🛠️ Selected Projects
+
+| Project | Focus |
+| --- | --- |
+| [password_generate](https://github.com/ae7hr/password_generate) | Python bot project |
+| [kahoot_project](https://github.com/ae7hr/kahoot_project) | Django web project |
+| [bag_site](https://github.com/ae7hr/bag_site) | HTML and CSS product landing page |
+
 ### 📎 Latest Posts
 
 <!-- POSTS:START -->
@@ -34,4 +42,3 @@ Coming soon.
 
 > Build something small. Make it useful. Keep improving.
 <!-- QUOTE:END -->
-
