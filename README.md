@@ -12,7 +12,7 @@ Want to see what I'm building? [Explore my repositories](https://github.com/ae7h
 <!-- STATS:START -->
 <img src="assets/stats.svg" alt="Public GitHub statistics for ae7hr" />
 
-<sub>Updated 2026-11-07 · public data only · commit search may lag.</sub>
+<sub>Updated 2026-11-08 · public data only · commit search may lag.</sub>
 <!-- STATS:END -->
 
 ### 💬 Social
@@ -40,5 +40,5 @@ Coming soon.
 <!-- QUOTE:START -->
 ### 📣 Quote of the Day
 
-> Make it work, understand it, then make it better.
+> Build something small. Make it useful. Keep improving.
 <!-- QUOTE:END -->
